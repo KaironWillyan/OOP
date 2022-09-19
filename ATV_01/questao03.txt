@@ -1,0 +1,8 @@
+-------ATRIBUTOS--------|--Sistema que é importante--
+Peso                    |    Biopedância
+Tipo de CNH             |       Detran
+Tipo Sanguíneo          |    Hemopi
+Habilidade destra       |   Capacitação esportiva
+Percentual de gordura   |   Consulta Nutricionista
+Saldo em conta          |   Bancário
+Etinia                  |   IBGE

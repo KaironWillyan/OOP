@@ -1,0 +1,14 @@
+-Personagens
+    Atributos: Classe, Health Point, Ataque Básico, Ataque Elemental, Defesa, Velocidade, Esquiva, Precisão, Crítico, Resistência a Crítico, Habilidades Especiais, Trajes, Títulos, Nome.
+    Métodos: Andar, Correr, Pular, Esquivar, Atacar, Posar, Morrer, Plantar, Colher, Conversar, Recuperação de HP.
+-Familiares
+    Atributos: Elemento, Ataque Básico, Ataque Elemental, Defesa, Vida, Precisão, Crítico, Resistência a Crítico, Esquiva, Habilidades Especiais, Nome.
+    Métodos: Atacar, Defender, Esquivar, Andar, Correr, Recuperação de HP.
+-Montarias
+    Atributos: Grau, Raridade, Cor, Ataque, Vida, Esquiva.
+    Métodos: Andar e Correr.
+-Mascote
+    Atributos: Grau, Raridade, Defesa, HP, Esquiva, Precisão, Crítico.
+    Métodos: Andar e Correr.
+-Equipamento:
+    Atributos: Elemento, Ataque Básico, Ataque Elemental, Despertar, Habilidades de Despertar, Grau, Raridade, Aprimorar.

@@ -1,0 +1,5 @@
+1- a)Abstração.
+
+b)Encapsulamento.
+
+c)Constructor.
