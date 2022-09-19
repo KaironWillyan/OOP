@@ -1,5 +1,0 @@
-Professor
-Disciplina
-Curso
-Boletim
-Instituição
