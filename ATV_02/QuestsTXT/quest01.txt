@@ -1,0 +1,1 @@
+    Tipagem estática é quando faz se necessário informar explicitamente cada tipo de dado utilizado. Após definido, essas variáveis estão restritas ao tipo declarado. Já na tipagem dinâmica o tipo é determinado em runtime de acordo como o dado recebido e não pela variável, ou seja, o programa verifica o tipo de dado utilizado e, a partir disso, define a tipagem.

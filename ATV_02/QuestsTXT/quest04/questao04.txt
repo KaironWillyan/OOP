@@ -1,0 +1,4 @@
+C permite que um dado seja acessado/interpretado como se fosse outro. Pode, por exemplo:
+Gravar um int e acessá-lo como se fosse um ponteiro.
+Gravar um float e acessar como se fosse um int. É certo que o resultado será catastrófico neste caso, mas é possível.
+Obter um 0 e ser considerado falso ou outros números (não importa de que tipo) serem interpretados como verdadeiro em operações que exigem um booleano.

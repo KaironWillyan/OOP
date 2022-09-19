@@ -1,0 +1,13 @@
+Um bom caso de uso para any é o parsing de JSON:
+
+const myObject = JSON.parse("{}");
+
+Utilizar any provê a você a habilidade de escrever código próximo ao JavaScript original sem a segurança de tipos. Any é muito semelhante a um 'tipo coringa' do qual você pode substituir com qualquer tipo (exceto never) para fazer um tipo atribuível a outro.
+
+declare function debug(value: any): void;
+
+debug("a string");
+debug(23);
+debug({ color: "blue" });
+
+Cada chamada para debug é permitida porque você pode substituir o tipo any com o tipo do argumento correspondente.

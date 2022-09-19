@@ -1,0 +1,1 @@
+Não, pois TypeScript recebe os valores de Number, por padrão, em float.
