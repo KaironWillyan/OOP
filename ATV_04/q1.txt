@@ -1,0 +1,1 @@
+Não, pois o ts aceita a criação da variável sem a necessidade de inicializar. 
