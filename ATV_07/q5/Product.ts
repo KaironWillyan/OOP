@@ -1,4 +1,4 @@
-class Product {
+export class Product {
     private _id: number;
     private _description: string;
     private _qttProduct: number;
