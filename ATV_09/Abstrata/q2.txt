@@ -1,0 +1,1 @@
+Para a ClasseConcreta compilar sem erros ela deve instanciar o método imprimaAlgo() da ClasseAbstrata.

@@ -1,0 +1,1 @@
+Ela não irá compilar, pois os métodos da clase abstrata não foram implementados.
