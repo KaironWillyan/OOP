@@ -1,0 +1,1 @@
+Não, pois classes abstratas apenas definem o que as classes filhas devem ter e instanciar.

@@ -1,0 +1,1 @@
+Pois ele não está instanciando algo de figuraGeometrica, mas um arrey de objetos desse tipo, ou seja, todas as classes que estendem figuraGeometrica, podem ser colocadas ali.
